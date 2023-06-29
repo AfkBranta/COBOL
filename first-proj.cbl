@@ -14,7 +14,7 @@
       * the procedure divison is where the programs logic and instructions are written.
        PROCEDURE DIVISION.
       * DISPLAY is used to output data to the screen. In this case, it outputs the value assigned to the variable 'HELLO'
-      * alternatively, you could write "DISPLAY 'variable'."
+      * alternatively, you could write "DISPLAY 'whatever you want outputted'."
            DISPLAY HELLO.
       * STOP RUN. is used to signal the end of the program.
            STOP RUN.
